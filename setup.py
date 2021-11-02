@@ -34,7 +34,8 @@ setup(
     author_email='github@openrobot.xyz',
     url='https://github.com/OpenRobot-Packages/Python-Cache',
     packages=[
-        'openrobot'
+        'openrobot',
+        'openrobot.cache'
     ],
     license='MIT',
     long_description=readme,
